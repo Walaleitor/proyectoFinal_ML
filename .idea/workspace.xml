@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="30dca956-47dd-4547-89ad-113675cdd34a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="JupyterTrust" id="4ca32e41-7a85-47aa-838f-f14b097add3f" />
+  <component name="ProjectId" id="1WKFC17N1pkmWsF2qzNb34QOIUS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="30dca956-47dd-4547-89ad-113675cdd34a" name="Default Changelist" comment="" />
+      <created>1578890248016</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578890248016</updated>
+      <workItem from="1578890249323" duration="1983000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1497" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1578891781092">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state x="-1497" y="106" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578891781092" />
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom" timestamp="1578892527098">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.bottom/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578892527098" />
+    <state width="1878" height="273" key="GridCell.Tab.0.center" timestamp="1578892527097">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.center/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578892527097" />
+    <state width="1878" height="273" key="GridCell.Tab.0.left" timestamp="1578892527096">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.left/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578892527096" />
+    <state width="1878" height="273" key="GridCell.Tab.0.right" timestamp="1578892527098">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state width="1878" height="273" key="GridCell.Tab.0.right/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578892527098" />
+    <state x="-1451" y="84" key="SettingsEditor" timestamp="1578891775981">
+      <screen x="-1920" y="-58" width="1920" height="1007" />
+    </state>
+    <state x="-1451" y="84" key="SettingsEditor/0.23.1440.877/-1920.-58.1920.1007@-1920.-58.1920.1007" timestamp="1578891775981" />
+  </component>
+</project>
